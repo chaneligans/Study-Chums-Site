@@ -1,9 +1,8 @@
 # Study Chums by Team Motivation
 
 ## Members
-* Chanel Mendoza
-* Sovathana Heng
 * Austin Tao
+* Chanel Mendoza
 * Lili Xu
 * Samantha Wiley
 
