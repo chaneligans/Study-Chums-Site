@@ -1,5 +1,7 @@
 # Study Chums by Team Motivation
 
+NOTE: We changed our github and team page:  https://github.com/chaneligans/Study-Chums
+
 ## Members
 * Austin Tao
 * Chanel Mendoza
